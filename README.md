@@ -9,7 +9,7 @@ Each challenge is under a separate folder, and has a README explaining my soluti
 ## Challenges
 
 - [X] Phoenixtto
-- [ ] Metaverse Supermarket
+- [X] Metaverse Supermarket
 - [ ] Pelusa
 - [ ] Smart Horrocrux
 - [ ] The Lost Kitty
