@@ -11,3 +11,6 @@
 [submodule "metaverse-supermarket/lib/solmate"]
 	path = metaverse-supermarket/lib/solmate
 	url = https://github.com/transmissions11/solmate
+[submodule "pelusa/lib/forge-std"]
+	path = pelusa/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
