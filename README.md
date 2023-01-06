@@ -11,7 +11,7 @@ Each challenge is under a separate folder, and has a README explaining my soluti
 - [X] Phoenixtto
 - [X] Metaverse Supermarket
 - [X] Pelusa
-- [ ] Smart Horrocrux
+- [X] Smart Horrocrux
 - [ ] The Lost Kitty
 - [ ] Stonks
 - [ ] RootMe
